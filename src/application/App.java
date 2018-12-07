@@ -6,7 +6,7 @@ import views.*;
 import controllers.*;
 
 public class App {
-
+    //komentarz tylko po to, żeby wprowadzić zmiany i sprawdzić czy jestem contributor'em
 	public static void main(String[] args) {
 	      SwingUtilities.invokeLater(new Runnable() {
 			 public void run() {
